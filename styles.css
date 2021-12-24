@@ -1,0 +1,16 @@
+/* Odin recipes stylesheet */
+
+.headers {
+    color: royalblue;
+    background-color: pink;
+    text-align: center;
+    font-weight: 900;
+    font-family: "Times New Roman", Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-size: 32px;
+}
+
+p {
+    color: tan;
+    font-size: 28px;
+}
